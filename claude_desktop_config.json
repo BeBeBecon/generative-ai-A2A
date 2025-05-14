@@ -8,18 +8,18 @@
         "@modelcontextprotocol/server-google-maps"
       ],
       "env": {
-        "GOOGLE_MAPS_API_KEY": "AIzaSyCHUVTdLOsX6XwzCvlTQdi4WxuZEOxUwwQ"
+        "GOOGLE_MAPS_API_KEY": "xxx"
       }
     },
   
     "line-bot": {
       "command": "node",
       "args": [
-        "/Users/taku/line-bot-mcp-server/dist/index.js"
+        "/xxx/line-bot-mcp-server/dist/index.js"
       ],
       "env": {
-        "CHANNEL_ACCESS_TOKEN": "QKSKbcLgWhXRLKIfbUgd8acZ9QiFFYAat9zJ2VqvjCYQ5Tye3ma6Ow6lPkuAtAZKeNsujjsMqUEB7F2CmP+EX1+Pf90P/pN+Tl1VRjDA102l0dlBuVkBS+/XdtYWLjl6Wk37HowZhaNIrVoobAmaGwdB04t89/1O/w1cDnyilFU=",
-        "DESTINATION_USER_ID": "U8f02cbd11d1d676314d9dd1954ddaf9d"
+        "CHANNEL_ACCESS_TOKEN": "xxx",
+        "DESTINATION_USER_ID": "xxx"
       }
     }
   }
